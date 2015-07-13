@@ -1,0 +1,12 @@
+# Site settings
+title: DSSG 2015 - Community Wellbeing project
+email: communitywellbeing@thirdplacetechnologies.com
+description: > # this means to ignore newlines until "baseurl:"
+  Blog for Data Science For Social Good (DSSG) project at UW eScience Institute on Community Wellbeing with Third Place Technologies.
+baseurl: "/DSSG2015-wellbeing" # the subpath of your site, e.g. /blog/
+url: uwescience.github.io/DSSG2015-wellbeing
+twitter_username: uwescience
+github_username:  uwescience
+
+# Build settings
+markdown: kramdown
